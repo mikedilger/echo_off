@@ -1,8 +1,6 @@
 // Copyright © 2015 by Optimal Computing Limited (of New Zealand)
 // This code is licensed under the MIT license (see LICENSE-MIT for details)
 
-#![feature(libc)]
-
 extern crate libc;
 
 use libc::{c_int,c_uint,c_uchar};
